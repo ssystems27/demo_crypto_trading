@@ -1,7 +1,7 @@
 # Crypto Auto-Trading Demo – VWAP & Z-Score Strategy
 
 This project is a beginner-level automated trading system built in Python.  
-It demonstrates the core logic behind algorithmic trading using VWAP (Volume Weighted Average Price) and Z-Score mean reversion** strategy.
+It demonstrates the core logic behind algorithmic trading using VWAP (Volume Weighted Average Price) and Z-Score mean reversion strategy.
 
 Strategy Overview
 
